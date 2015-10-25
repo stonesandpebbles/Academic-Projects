@@ -1,0 +1,29 @@
+Food item     bulk density
+Prawn          1017
+Avocado        1054
+Apricot        1048
+Banana         1027
+Date           1093
+Mango          1079
+Melon           899
+Papaya          968
+Pineapple      1010
+Sweet Almond    475
+Bitter Almond   475
+Anise           985
+Wheat Flour     480
+Raisin          650
+Cardamom        405.77
+Octopus        1042
+Oats            513
+Cocoa           480
+Corn starch     560
+Milk            610
+White Bread     650
+Neem            530
+Egg             340
+Salt            960
+Cauliflower     320
+Radish          942
+Spinach         224
+test val        900

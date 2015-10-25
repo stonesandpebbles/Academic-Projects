@@ -1,0 +1,4 @@
+PAckaging film                                WVP(p*10^13) cm3*cm/(cm2*s(pa))
+polyvinyvinylidene chloride(PVDC)              7
+low density polyethylene(LDPE)                 68
+high density polyethylene(HDPE)                9        

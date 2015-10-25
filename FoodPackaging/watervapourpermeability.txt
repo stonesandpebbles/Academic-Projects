@@ -1,0 +1,15 @@
+Packaging film            WVP(p*10^13) cm3*cm/(cm2*s(pa))   price     density
+Polyvinylidene Chloride(PVDC)                   7          200        1630
+Low Density Polyethylene(LDPE)                 68           10         920
+High Density Polyethylene(HDPE)                9            88         950
+Paper                                          84           54          80
+Aluminium                                      52           40         1000
+Tinplate                                       60           50         1200
+Glass                                          40           40         1500
+Polyethylene Teraphthalate                     20          300         1800
+Polypropylene                                  25          400         1900
+Polystyrene                                    30          250         2100
+Polyethylene Naphthalate                       40          300         2500
+Polyvinyl Chloride                             60          700         3100
+Ethylene Vinyl Alcohol                         70         1100         3470
+test val                                       30           15          900

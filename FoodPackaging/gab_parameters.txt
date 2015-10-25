@@ -1,0 +1,45 @@
+                       m0        C         K
+Bitter Almond       2.442      -53.55     0.9317
+Sweet Almond        2.2707     99.02734   0.9265
+Anise               4.3598     17.26      0.9700
+Barley              9.717      13.8956    0.6330
+Apricot             8.2145      4.2       1.0170
+Avocado             3.383      14.707     0.9901
+Wheat               6.44       22.23      0.91
+Agar               13.30       47.05      0.736
+Amylose             9.90       16.16      0.724
+Apple              16.5         0.790     0.935
+Beef                3.77       14.47      0.9812
+Bread               5.321      42.012     0.860
+Cardamom            6.3        28.67      0.834
+Carrageenan        10.9        33.971     0.799
+Carrot              4.4         4.377     1.146
+Casein              8.58        7.12      0.6540
+Cinnamom            7.8        17.70      0.703
+Clove               4.6        29.25      0.853
+Cocoa Bean          3.3       903.66      0.882
+Cookie              3.4         5.866     0.982
+Coriander           6.2        14.30      0.753
+Cracker             5           9.012     0.957
+Elastin             7.61       15.5       0.77
+Fig                11.00        1.425     0.9235
+Fish Flour          5.80        5.1       0.81
+Gelatin             8.6        84.452     0.855
+Ginger              7.8        19.17      0.738
+Macaroni            4.26       10.61      0.9071
+Nutmeg              5.1        28.09      0.766
+Oat bran            6.18       39.4       0.822
+Onion               4.6         2.860     0.948
+Pea                 3.3        35.490     0.744
+Polyglycine         8.83        5.55      0.6268
+Potato              6.16       12.9       0.894
+Raisin              9.98        3.076     0.9466
+Rapeseed            3.6        10.63      0.876
+Rice               11.0        19.2       0.58
+Soy Protein         6.32       20.25      0.873
+Strawberries        10.9        1.53      0.953
+Tomato              16.6       31.4       0.83
+Wheat                6.67      23.58      0.743
+Wheat Flour          6.44      22.23      0.91
+Yoghurt              7.59      22.5778    0.9998
+test val              3.0      20         0.910000
